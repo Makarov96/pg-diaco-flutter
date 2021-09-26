@@ -1,0 +1,5 @@
+include: package:very_good_analysis/analysis_options.yaml
+linter:
+  rules:
+    prefer_const_literals_to_create_immutables: false
+    public_member_api_docs: false
